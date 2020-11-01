@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Igor
 
 🌱 I’m currently studying Computer Science and Engineering in Cesena (IT)  
 <!--
