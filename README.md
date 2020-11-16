@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Igor
 
-🌱 I’m currently studying for my master in Computer Science and Engineering in Cesena (IT) - Bologna University 
-🔭 1 year of research at ISR (Institute For Systems and Robotics) Vision Laboratory - Lisbon
-🔭 6 months research at RPL (Robotics Perception and Learning) Laboratory at KTH University - Stockholm
+🌱 I’m currently studying for my master in Computer Science and Engineering in Cesena (IT) - Bologna University <br />
+🔭 1 year of research at ISR (Institute For Systems and Robotics) Vision Laboratory - Lisbon <br />
+🔭 6 months research at RPL (Robotics Perception and Learning) Laboratory at KTH University - Stockholm <br />
 <!--
 ### Connect with me:
 [<img src="https://simpleicons.org/icons/gmail.svg" width="22px" align="left" />](mailto:mail@mail.me)
