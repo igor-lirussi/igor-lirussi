@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Igor
 
-🌱 I’m currently studying for my master in Computer Science and Engineering in Cesena (IT) - Bologna University <br />
-🔭 1 year of research at ISR (Institute For Systems and Robotics) Vision Laboratory - Lisbon <br />
-🔭 6 months research at RPL (Robotics Perception and Learning) Laboratory at KTH University - Stockholm <br />
+🌱 I’m currently studying for my Master's degree in Computer Science and Engineering in Cesena (IT) - Bologna University <br />
+🔭 1 year of research at ISR ([Institute For Systems and Robotics]) Vision Laboratory - Lisbon <br />
+🔭 6 months research at RPL ([Robotics Perception and Learning]) Laboratory at KTH University - Stockholm <br />
 <!--
 ### Connect with me:
 [<img src="https://simpleicons.org/icons/gmail.svg" width="22px" align="left" />](mailto:mail@mail.me)
@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[Institute For Systems and Robotics]: https://welcome.isr.tecnico.ulisboa.pt
+[Robotics Perception and Learning]: https://www.kth.se/is/rpl
