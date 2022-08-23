@@ -17,8 +17,8 @@
 ### Connect with me:
 <p align="left">
   <a href="mailto:igor.lirussi@studio.unibo.it"><img src="https://img.icons8.com/plasticine/80/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.facebook.com/igor.lirussi"><img src="https://img.icons8.com/plasticine/80/000000/facebook-new.png" alt="facebook"/></a>
   <a href="https://www.linkedin.com/in/igor-lirussi/"><img src="https://img.icons8.com/plasticine/80/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.facebook.com/igor.lirussi"><img src="https://img.icons8.com/plasticine/80/000000/facebook-new.png" alt="facebook"/></a>
   <a href="https://www.youtube.com/channel/UCNLGoFQBA23zvrH_tUeA6Cg"><img src="https://img.icons8.com/plasticine/80/000000/youtube.png" alt="youtube"/></a>
   <a href="https://www.treedom.net/en/user/igor-lirussi"><img src="https://img.icons8.com/plasticine/80/000000/deciduous-tree.png" alt="treedom"/></a>
 </p>
