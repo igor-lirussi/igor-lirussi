@@ -15,6 +15,10 @@
 [![igor's github stats](https://github-readme-stats.vercel.app/api?username=igor-lirussi&count_private=true&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<a href="https://github.com/igor-lirussi?tab=repositories">
+<img align="right" alt="Github" src="/metrics.activity.svg" />
+</a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-lirussi&layout=compact&langs_count=10&exclude_repo=VR-Forest,VR-Boat,VR-Physics-Integration,VR-Lab-Scan)](https://github.com/igor-lirussi?tab=repositories)
 
 
@@ -26,6 +30,8 @@
   <a href="https://www.youtube.com/channel/UCNLGoFQBA23zvrH_tUeA6Cg"><img src="https://img.icons8.com/plasticine/80/000000/youtube.png" alt="youtube"/></a>
   <a href="https://www.treedom.net/en/user/igor-lirussi"><img src="https://img.icons8.com/plasticine/80/000000/deciduous-tree.png" alt="treedom"/></a>
 </p>
+
+[![Followers](/metrics.people.svg)](https://github.com/igor-lirussi)
 
 [![Github](https://img.shields.io/github/followers/igor-lirussi?label=Follow&style=social)](https://github.com/igor-lirussi)
 
@@ -63,6 +69,8 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 -->
+
+Updated hourly
 
 <!--
  ############# FINAL LINKS #############

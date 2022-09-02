@@ -11,10 +11,22 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: GenActivity
+        uses: lowlighter/metrics@latest
         with:
+          filename: metrics.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
-
+          # Options
+          user: igor-lirussi
+          template: classic
+          base: activity
+          base_indepth: yes
+          config_timezone: Europe/Istanbul
+      - name: GenCode
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.code.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           # Options
           user: igor-lirussi
           template: classic
@@ -23,10 +35,65 @@ jobs:
           config_timezone: Europe/Istanbul
           plugin_code: yes
           plugin_code_days: 30
-          plugin_code_lines: 1
+          plugin_code_lines: 5
           plugin_code_load: 400
           plugin_code_visibility: public
+      - name: GenPeople
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.people.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: igor-lirussi
+          template: classic
+          base: ""
+          base_indepth: yes
+          config_timezone: Europe/Istanbul
           plugin_people: yes
           plugin_people_limit: 16
           plugin_people_size: 24
           plugin_people_types: followers
+      - name: GenLines
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.lines.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: igor-lirussi
+          template: classic
+          base: ""
+          base_indepth: yes
+          config_timezone: Europe/Istanbul
+          plugin_lines: yes
+          plugin_lines_history_limit: 3
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: repositories
+      - name: GenStarGaz
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.stargaz.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: igor-lirussi
+          template: classic
+          base: ""
+          base_indepth: yes
+          config_timezone: Europe/Istanbul
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: chartist
+      - name: GenStarredTop
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.starredtop.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: igor-lirussi
+          template: classic
+          base: ""
+          base_indepth: yes
+          config_timezone: Europe/Istanbul
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
