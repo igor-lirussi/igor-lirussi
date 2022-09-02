@@ -1,16 +1,27 @@
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  # Schedule updates (each day)
+  schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
+  # On opened issues
+  issues:
+    types: [opened]
+    if: startsWith(github.event.issue.title, 'refresh|')
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Update with Datetime of Workflow
+        uses: ZekeriyaAY/workflow-date@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          date_format: '%a %d %b %Y %H:%M %Z'
       - name: GenActivity
         uses: lowlighter/metrics@latest
         with:

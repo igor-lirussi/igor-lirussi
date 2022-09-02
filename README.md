@@ -15,11 +15,10 @@
 [![igor's github stats](https://github-readme-stats.vercel.app/api?username=igor-lirussi&count_private=true&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<a href="https://github.com/igor-lirussi?tab=repositories">
-<img align="right" alt="Github" src="/metrics.activity.svg" />
-</a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-lirussi&layout=compact&langs_count=10&exclude_repo=VR-Forest,VR-Boat,VR-Physics-Integration,VR-Lab-Scan)](https://github.com/igor-lirussi?tab=repositories)
+<a href="https://github.com/igor-lirussi?tab=repositories">
+<img alt="Github" src="/metrics.activity.svg"  width="450"/>
+</a>
 
 
 ### Connect with me:
@@ -29,12 +28,19 @@
   <a href="https://www.facebook.com/igor.lirussi"><img src="https://img.icons8.com/plasticine/80/000000/facebook-new.png" alt="facebook"/></a>
   <a href="https://www.youtube.com/channel/UCNLGoFQBA23zvrH_tUeA6Cg"><img src="https://img.icons8.com/plasticine/80/000000/youtube.png" alt="youtube"/></a>
   <a href="https://www.treedom.net/en/user/igor-lirussi"><img src="https://img.icons8.com/plasticine/80/000000/deciduous-tree.png" alt="treedom"/></a>
+  <a href="https://igor-lirussi.github.io/Curriculum-Vitae/"><img src="https://img.icons8.com/clouds/80/000000/resume.png" alt="Curriculum-Vitae"/></a>
 </p>
 
 [![Followers](/metrics.people.svg)](https://github.com/igor-lirussi)
 
 [![Github](https://img.shields.io/github/followers/igor-lirussi?label=Follow&style=social)](https://github.com/igor-lirussi)
 
+
+
+💫 <i>Last Update <!-- DEFAULT-TAG:START -->
+Sat 03 Sep 2022 14:53 UTC
+<!-- DEFAULT-TAG:END --></i>
+###### :milky_way: [Trigger Refresh Now](https://github.com/igor-lirussi/igor-lirussi/issues/new?template=refresh.md&title=refresh%7Cneeded)
 
 <!-- commented
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igor-lirussi&theme=github)
@@ -70,7 +76,6 @@
 </p>
 -->
 
-Updated hourly
 
 <!--
  ############# FINAL LINKS #############
