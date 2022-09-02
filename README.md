@@ -5,6 +5,10 @@
 🔭 1 year of research at ISR ([Institute For Systems and Robotics]) Vision Laboratory at Instituto Superior Técnico - Lisbon <br />
 🔭 6 months research at RPL ([Robotics Perception and Learning]) Laboratory at KTH University - Stockholm <br />
 
+<!-- Any image aligned to the right. Beware the width 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+-->
+
 <!-- commented
 <br />
 <hr />
@@ -23,8 +27,45 @@
   <a href="https://www.treedom.net/en/user/igor-lirussi"><img src="https://img.icons8.com/plasticine/80/000000/deciduous-tree.png" alt="treedom"/></a>
 </p>
 
+[![Github](https://img.shields.io/github/followers/igor-lirussi?label=Follow&style=social)](https://github.com/igor-lirussi)
+
+
+<!-- commented
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igor-lirussi&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=igor-lirussi&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=igor-lirussi&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=igor-lirussi&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=igor-lirussi&theme=github)
+-->
+
+<!-- commented
+ [![igor-lirussi's GitHub 30 days activity graph](https://activity-graph.herokuapp.com/graph?username=igor-lirussi&theme=react-dark)](https://github.com/igor-lirussi?tab=repositories)
+-->
+
+<!-- commented
+  Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+</p>
+-->
+
 <!--
-FINAL LINKS
+ ############# FINAL LINKS #############
 -->
 [Institute For Systems and Robotics]: https://welcome.isr.tecnico.ulisboa.pt
 [Robotics Perception and Learning]: https://www.kth.se/is/rpl
