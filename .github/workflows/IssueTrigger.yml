@@ -7,3 +7,5 @@ jobs:
     call-other-workflow:
       if: startsWith(github.event.issue.title, 'refresh|')
       uses: ./.github/workflows/GenerateMetrics.yml
+      secrets:
+        METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
