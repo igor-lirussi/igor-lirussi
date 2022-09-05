@@ -2,13 +2,11 @@ name: Metrics
 on:
   # Schedule updates (each day)
   schedule: [{cron: "0 0 * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  # run workflow manually and on each repo commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
-  # On opened issues
-  issues:
-    types: [opened]
-    if: startsWith(github.event.issue.title, 'refresh|')
+  # called by another workflow
+  workflow_call:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -35,6 +33,7 @@ jobs:
           config_timezone: Europe/Istanbul
       - name: GenCode
         uses: lowlighter/metrics@latest
+        if: false #deactivated
         with:
           filename: metrics.code.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -81,6 +80,7 @@ jobs:
           plugin_lines_sections: repositories
       - name: GenStarGaz
         uses: lowlighter/metrics@latest
+        if: false #deactivated
         with:
           filename: metrics.stargaz.svg
           token: ${{ secrets.METRICS_TOKEN }}

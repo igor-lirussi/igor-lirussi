@@ -1,0 +1,9 @@
+name: IssueTrigger
+on:
+  # On opened issues
+  issues:
+    types: [opened]
+jobs:
+    call-other-workflow:
+      if: startsWith(github.event.issue.title, 'refresh|')
+      uses: ./.github/workflows/GenerateMetrics.yml
