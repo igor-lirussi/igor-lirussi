@@ -35,7 +35,7 @@
 
 [![Followers](https://github.com/igor-lirussi/igor-lirussi/raw/main/metrics.people.svg)](https://github.com/igor-lirussi)
 
-[![Github](https://img.shields.io/github/followers/igor-lirussi?label=Follow&style=social)](https://github.com/igor-lirussi)
+[![Github](https://img.shields.io/github/followers/igor-lirussi?label=Follow&style=social)](https://github.com/igor-lirussi?tab=followers)
 
 
 💫 <i>Last Update <!-- DEFAULT-TAG:START -->
