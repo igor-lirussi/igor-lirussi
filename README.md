@@ -5,10 +5,12 @@
 🔭 1 year of research at ISR ([Institute For Systems and Robotics]) Vision Laboratory at Instituto Superior Técnico - Lisbon <br />
 🔭 6 months research at RPL ([Robotics Perception and Learning]) Laboratory at KTH University - Stockholm <br />
 
+
+
+<!--  REMEMBER TO PUT ABSOULUTE PATH FOR IMAGES SO MIRROR REPOSITORIES AND SITES CAN RETRIEVE THEM! -->
 <!-- Any image aligned to the right. Beware the width 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 -->
-
 <!-- commented
 <br />
 <hr />
@@ -17,7 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-lirussi&layout=compact&langs_count=10&exclude_repo=VR-Forest,VR-Boat,VR-Physics-Integration,VR-Lab-Scan)](https://github.com/igor-lirussi?tab=repositories)
 <a href="https://github.com/igor-lirussi?tab=repositories">
-<img alt="Github" src="/metrics.activity.svg"  width="450"/>
+<img alt="Github" src="https://github.com/igor-lirussi/igor-lirussi/blob/main/metrics.activity.svg"  width="450"/>
 </a>
 
 
@@ -31,16 +33,15 @@
   <a href="https://igor-lirussi.github.io/Curriculum-Vitae/"><img src="https://img.icons8.com/clouds/80/000000/resume.png" alt="Curriculum-Vitae"/></a>
 </p>
 
-[![Followers](/metrics.people.svg)](https://github.com/igor-lirussi)
+[![Followers](https://github.com/igor-lirussi/igor-lirussi/blob/main/metrics.people.svg)](https://github.com/igor-lirussi)
 
 [![Github](https://img.shields.io/github/followers/igor-lirussi?label=Follow&style=social)](https://github.com/igor-lirussi)
-
 
 
 💫 <i>Last Update <!-- DEFAULT-TAG:START -->
 Mon 05 Sep 2022 18:18 UTC
 <!-- DEFAULT-TAG:END --></i>
-###### :milky_way: [Trigger Refresh Now](https://github.com/igor-lirussi/igor-lirussi/issues/new?template=refresh.md&title=refresh%7Cneeded)
+###### 🌌 [Trigger Refresh Now](https://github.com/igor-lirussi/igor-lirussi/issues/new?template=refresh.md&title=refresh%7Cneeded)
 
 <!-- commented
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igor-lirussi&theme=github)
