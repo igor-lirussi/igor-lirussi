@@ -19,7 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-lirussi&layout=compact&langs_count=10&exclude_repo=VR-Forest,VR-Boat,VR-Physics-Integration,VR-Lab-Scan)](https://github.com/igor-lirussi?tab=repositories)
 <a href="https://github.com/igor-lirussi?tab=repositories">
-<img alt="Github" src="https://github.com/igor-lirussi/igor-lirussi/blob/main/metrics.activity.svg"  width="450"/>
+<img alt="Github" src="https://github.com/igor-lirussi/igor-lirussi/raw/main/metrics.activity.svg"  width="450"/>
 </a>
 
 
@@ -33,7 +33,7 @@
   <a href="https://igor-lirussi.github.io/Curriculum-Vitae/"><img src="https://img.icons8.com/clouds/80/000000/resume.png" alt="Curriculum-Vitae"/></a>
 </p>
 
-[![Followers](https://github.com/igor-lirussi/igor-lirussi/blob/main/metrics.people.svg)](https://github.com/igor-lirussi)
+[![Followers](https://github.com/igor-lirussi/igor-lirussi/raw/main/metrics.people.svg)](https://github.com/igor-lirussi)
 
 [![Github](https://img.shields.io/github/followers/igor-lirussi?label=Follow&style=social)](https://github.com/igor-lirussi)
 
