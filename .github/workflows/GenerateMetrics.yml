@@ -106,6 +106,8 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: icons
           plugin_topics_sort: stars
+      - name: Checkout
+        uses: actions/checkout@v3
       - name: Update with Datetime of Workflow
         uses: ZekeriyaAY/workflow-date@main
         with:
