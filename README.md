@@ -33,9 +33,9 @@
   <a href="https://igor-lirussi.github.io/Curriculum-Vitae/"><img src="https://img.icons8.com/clouds/80/000000/resume.png" alt="Curriculum-Vitae"/></a>
 </p>
 
-[![Followers](https://github.com/igor-lirussi/igor-lirussi/raw/main/metrics.people.svg)](https://github.com/igor-lirussi)
+[![Followers](https://github.com/igor-lirussi/igor-lirussi/raw/main/metrics.people.svg)](https://github.com/igor-lirussi?tab=followers)
 
-[![Github](https://img.shields.io/github/followers/igor-lirussi?label=Follow&style=social)](https://github.com/igor-lirussi?tab=followers)
+[![Github](https://img.shields.io/github/followers/igor-lirussi?label=Follow&style=social)](https://github.com/igor-lirussi)
 
 
 💫 <i>Last Update <!-- DEFAULT-TAG:START -->
