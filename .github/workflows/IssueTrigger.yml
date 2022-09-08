@@ -3,9 +3,19 @@ on:
   # On opened issues
   issues:
     types: [opened]
-jobs:
-    call-other-workflow:
-      if: startsWith(github.event.issue.title, 'refresh|')
-      uses: ./.github/workflows/GenerateMetrics.yml
-      secrets:
-        METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+jobs:  
+  call-other-workflow:
+    if: startsWith(github.event.issue.title, 'refresh|')
+    uses: ./.github/workflows/GenerateMetrics.yml
+    secrets:
+      METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+  close-issue:
+    runs-on: ubuntu-latest
+    needs: [call-other-workflow]
+    steps:
+      - name: Close Issue
+        uses: peter-evans/close-issue@v2
+        with:
+          comment: |
+            Done!
+            Checkout https://github.com/igor-lirussi
