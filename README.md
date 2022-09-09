@@ -30,7 +30,7 @@
   <a href="https://www.facebook.com/igor.lirussi"><img src="https://img.icons8.com/plasticine/80/000000/facebook-new.png" alt="facebook"/></a>
   <a href="https://www.youtube.com/channel/UCNLGoFQBA23zvrH_tUeA6Cg"><img src="https://img.icons8.com/plasticine/80/000000/youtube.png" alt="youtube"/></a>
   <a href="https://www.treedom.net/en/user/igor-lirussi"><img src="https://img.icons8.com/plasticine/80/000000/deciduous-tree.png" alt="treedom"/></a>
-  <a href="https://igor-lirussi.github.io/Curriculum-Vitae/"><img src="https://img.icons8.com/clouds/80/000000/resume.png" alt="Curriculum-Vitae"/></a>
+  <a href="https://igor-lirussi.github.io/Curriculum-Vitae/"><img src="https://user-images.githubusercontent.com/69794393/189325524-b6551717-2a13-47a1-b7aa-08497c4d72ee.png" alt="Curriculum-Vitae"/></a>
 </p>
 
 [![Followers](https://github.com/igor-lirussi/igor-lirussi/raw/main/metrics.people.svg)](https://github.com/igor-lirussi?tab=followers)
