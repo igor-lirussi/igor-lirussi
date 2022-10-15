@@ -58,8 +58,8 @@ jobs:
           base_indepth: yes
           config_timezone: Europe/Istanbul
           plugin_people: yes
-          plugin_people_limit: 16
-          plugin_people_size: 24
+          plugin_people_limit: 99
+          plugin_people_size: 26
           plugin_people_types: followers
       - name: GenLines
         uses: lowlighter/metrics@latest
