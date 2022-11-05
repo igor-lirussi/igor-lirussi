@@ -56,6 +56,10 @@ Sat 05 Nov 2022 01:16 UTC
 -->
 
 <!-- commented
+[![Star History Chart](https://api.star-history.com/svg?repos=igor-lirussi/Dialogue-Pepper-Robot,igor-lirussi/VR-Physics-Integration,igor-lirussi/CapaBot-SanBot-Robot,igor-lirussi/VR-Boat&type=Date)](https://star-history.com/#igor-lirussi/Dialogue-Pepper-Robot&igor-lirussi/VR-Physics-Integration&igor-lirussi/CapaBot-SanBot-Robot&igor-lirussi/VR-Boat&Date)
+-->
+
+<!-- commented
   Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   
