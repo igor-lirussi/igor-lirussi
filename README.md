@@ -2,6 +2,7 @@
 
 🌳 I’m currently studying for my Master's degree in Computer Science and Engineering in Cesena (IT) - Bologna University <br /> 
 🌱 I’m currently researching at CoLoRs ([Cognitive Learning and Robotics]) Laboratory at Boğaziçi University - Istanbul <br />
+🔭 6 months research at BUVIAR ([Bogazici University Virtual Augmented Reality]) Laboratory at Boğaziçi University - Istanbul <br />
 🔭 6 months research at RPL ([Robotics Perception and Learning]) Laboratory at KTH University - Stockholm <br />
 🔭 1 year of research at ISR ([Institute For Systems and Robotics]) Vision Laboratory at Instituto Superior Técnico - Lisbon <br />
 
@@ -86,4 +87,5 @@ Wed 25 Jan 2023 00:58 UTC
 -->
 [Institute For Systems and Robotics]: https://welcome.isr.tecnico.ulisboa.pt
 [Robotics Perception and Learning]: https://www.kth.se/is/rpl
+[Bogazici University Virtual Augmented Reality]: https://buviar.github.io
 [Cognitive Learning and Robotics]: https://colors.cmpe.boun.edu.tr
