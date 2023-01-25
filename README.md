@@ -87,5 +87,5 @@ Wed 25 Jan 2023 12:56 UTC
 -->
 [Institute For Systems and Robotics]: https://welcome.isr.tecnico.ulisboa.pt
 [Robotics Perception and Learning]: https://www.kth.se/is/rpl
-[Bogazici University Virtual Augmented Reality]: https://buviar.github.io
+[Bogazici University Virtual Augmented Reality]: http://www.buviar.boun.edu.tr
 [Cognitive Learning and Robotics]: https://colors.cmpe.boun.edu.tr
