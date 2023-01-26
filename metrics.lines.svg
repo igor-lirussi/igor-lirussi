@@ -19,25 +19,25 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">igor-lirussi/VR-Boat</span>
+                            <span class="diff-handle">igor-lirussi/Dialogue-Nao-Robot</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">igor-lirussi/VR-Forest</span>
+                            <span class="diff-handle">igor-lirussi/C-Exercises</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">igor-lirussi/e-commerce-website</span>
+                            <span class="diff-handle">igor-lirussi/Concurrent-DDD-Ubiquitous-Language-Verifier</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">igor-lirussi/igor-lirussi</span>
+                            <span class="diff-handle">igor-lirussi/OpenCV-Send-Images-Network</span>
                         </div>
                     </section>
                     <section>
@@ -45,9 +45,9 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added"> +4.78m</span> <span class="deleted"> -4.61m</span></div>
+                            <div class="diff-stats"><span class="added"> +79.5k</span> <span class="deleted">    -51</span></div>
                             <span> </span>
                         </div>
                         <div class="field">
@@ -56,7 +56,7 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added">  +929k</span> <span class="deleted">  -212k</span></div>
+                            <div class="diff-stats"><span class="added"> +8.16k</span> <span class="deleted">     -8</span></div>
                             <span> </span>
                         </div>
                         <div class="field">
@@ -65,16 +65,16 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added">  +195k</span> <span class="deleted">  -153k</span></div>
+                            <div class="diff-stats"><span class="added"> +2.54k</span> <span class="deleted">   -926</span></div>
                             <span> </span>
                         </div>
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added"> +1.58k</span> <span class="deleted">   -990</span></div>
+                            <div class="diff-stats"><span class="added">   +567</span> <span class="deleted">    -71</span></div>
                             <span> </span>
                         </div>
                     </section>
