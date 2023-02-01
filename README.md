@@ -4,7 +4,7 @@
 🌱 I’m currently researching at CoLoRs ([Cognitive Learning and Robotics]) Laboratory at Boğaziçi University - Istanbul <br />
 🔭 6 months research at BUVIAR ([Bogazici University Virtual Augmented Reality]) Laboratory at Boğaziçi University - Istanbul <br />
 🔭 6 months research at RPL ([Robotics Perception and Learning]) Laboratory at KTH University - Stockholm <br />
-🔭 1 year of research at ISR ([Institute For Systems and Robotics]) Vision Laboratory at Instituto Superior Técnico - Lisbon <br />
+🔭 1 year of research at ISR ([Institute for Systems and Robotics]) Vision Laboratory at Instituto Superior Técnico - Lisbon <br />
 
 
 
@@ -85,7 +85,7 @@ Wed 01 Feb 2023 01:09 UTC
 <!--
  ############# FINAL LINKS #############
 -->
-[Institute For Systems and Robotics]: https://welcome.isr.tecnico.ulisboa.pt
+[Institute for Systems and Robotics]: https://welcome.isr.tecnico.ulisboa.pt
 [Robotics Perception and Learning]: https://www.kth.se/is/rpl
 [Bogazici University Virtual Augmented Reality]: http://buviar.boun.edu.tr
 [Cognitive Learning and Robotics]: https://colors.cmpe.boun.edu.tr
