@@ -52,7 +52,7 @@ Fri 03 Mar 2023 02:54 UTC
 -->
 
 <!-- commented
- [![igor-lirussi's GitHub 30 days activity graph](https://activity-graph.herokuapp.com/graph?username=igor-lirussi&theme=react-dark)](https://github.com/igor-lirussi?tab=repositories)
+ [![igor-lirussi's GitHub 30 days activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=igor-lirussi&theme=react-dark&custom_title=Last%2030%20Day%20Contributions&hide_border=true)](https://github.com/igor-lirussi?tab=repositories)
 -->
 
 <!-- commented
