@@ -29,13 +29,26 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="mailto:igor.lirussi@studio.unibo.it"><img src="https://img.icons8.com/plasticine/80/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/igor-lirussi/"><img src="https://img.icons8.com/plasticine/80/linkedin.png" alt="linkedin"/></a>
-  <a href="https://youtube.com/@igor.lirussi"><img src="https://img.icons8.com/plasticine/80/youtube.png" alt="youtube"/></a>
-  <a href="https://www.facebook.com/igor.lirussi"><img src="https://img.icons8.com/plasticine/80/facebook-new.png" alt="facebook"/></a>
-  <a href="https://www.treedom.net/en/user/igor-lirussi"><img src="https://img.icons8.com/plasticine/80/deciduous-tree.png" alt="treedom"/></a>
-  <a href="https://igor-lirussi.github.io/Curriculum-Vitae/"><img src="https://user-images.githubusercontent.com/69794393/189325524-b6551717-2a13-47a1-b7aa-08497c4d72ee.png" alt="Curriculum-Vitae"/></a>
+  <a href="mailto:igor.lirussi@studio.unibo.it">
+    <img src="https://igor-lirussi.github.io/icons/color-hand-drawn/mail-80.png" height="80" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/igor-lirussi/">
+    <img src="https://igor-lirussi.github.io/icons/color-hand-drawn/linkedin-80.png" height="80" alt="LinkedIn"/></a>
+  <a href="https://youtube.com/@igor.lirussi">
+    <img src="https://igor-lirussi.github.io/icons/color-hand-drawn/youtube-squared-80.png" height="80" alt="Youtube"/></a>
+  <a href="https://twitter.com/igorlirussi">
+    <img src="https://igor-lirussi.github.io/icons/color-hand-drawn/twitter-squared-80.png" height="80" alt="Twitter"/></a>
+  <a href="https://www.instagram.com/igor.lirussi">
+    <img src="https://igor-lirussi.github.io/icons/color-hand-drawn/instagram-80.png" height="80" alt="Instagram"/></a>
+  <a href="https://www.facebook.com/igor.lirussi">
+    <img src="https://igor-lirussi.github.io/icons/color-hand-drawn/facebook-80.png" height="80" alt="Facebook"/></a>
+  <a href="https://spotify.link/jbT6DwBhMBb">
+    <img src="https://igor-lirussi.github.io/icons/color-hand-drawn/spotify-80.png" height="80" alt="Spotify"/></a>
+  <a href="https://www.treedom.net/en/user/igor-lirussi">
+    <img src="https://igor-lirussi.github.io/icons/color-hand-drawn/treedom-80.png" height="80" alt="Treedom"/></a>
+  <a href="https://igor-lirussi.github.io/Curriculum-Vitae/">
+    <img src="https://igor-lirussi.github.io/icons/color-hand-drawn/cv-80.png" height="80" alt="Curriculum-Vitae"/></a>
 </p>
+
 
 [![Github](https://img.shields.io/github/followers/igor-lirussi?label=Follow%20on%20GitHub&style=social)](https://github.com/igor-lirussi)
 
