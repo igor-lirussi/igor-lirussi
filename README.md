@@ -11,7 +11,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&lines=Robotics%2C+AI%2C+IoT%2C+VR)](https://git.io/typing-svg) -->
 
 
-<!--  REMEMBER TO PUT ABSOULUTE PATH FOR IMAGES SO MIRROR REPOSITORIES AND SITES CAN RETRIEVE THEM! -->
+<!--  REMEMBER TO PUT ABSOLUTE PATH FOR IMAGES SO MIRROR REPOSITORIES AND SITES CAN RETRIEVE THEM! -->
 <!-- Any image aligned to the right. Beware the width 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 -->
@@ -45,6 +45,8 @@
     <img src="https://igor-lirussi.github.io/icons/color-hand-drawn/spotify-80.png" height="80" alt="Spotify"/></a>
   <a href="https://www.treedom.net/en/user/igor-lirussi">
     <img src="https://igor-lirussi.github.io/icons/color-hand-drawn/treedom-80.png" height="80" alt="Treedom"/></a>
+  <a href="https://paypal.me/igorlirussi">
+    <img src="https://igor-lirussi.github.io/icons/color-hand-drawn/paypal-80.png" height="80" alt="PayPal"/></a>
   <a href="https://igor-lirussi.github.io/Curriculum-Vitae/">
     <img src="https://igor-lirussi.github.io/icons/color-hand-drawn/cv-80.png" height="80" alt="Curriculum-Vitae"/></a>
 </p>
