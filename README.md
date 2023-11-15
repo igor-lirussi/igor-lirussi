@@ -54,8 +54,10 @@
 
 [![Github](https://img.shields.io/github/followers/igor-lirussi?label=Follow%20on%20GitHub&style=social)](https://github.com/igor-lirussi)
 
+<!-- commented
 [![Followers](https://github.com/igor-lirussi/igor-lirussi/raw/main/metrics.people.svg)](https://github.com/igor-lirussi?tab=followers)
-
+-->
+ 
 💫 <i>Last Update <!-- DEFAULT-TAG:START -->
 Wed 15 Nov 2023 00:53 UTC
 <!-- DEFAULT-TAG:END --></i>
