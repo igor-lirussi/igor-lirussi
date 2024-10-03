@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Igor
 
-🔭 1 year of research at CoLoRs ([Cognitive Learning and Robotics]) Laboratory at Boğaziçi University - Istanbul <br />
+🔭 2 years of research at CoLoRs ([Cognitive Learning and Robotics]) Laboratory at Boğaziçi University - Istanbul <br />
 🔭 6 months research at BUVIAR ([Bogazici University Virtual Augmented Reality]) Laboratory - Istanbul <br />
 🔭 6 months research at RPL ([Robotics Perception and Learning]) Laboratory at KTH University - Stockholm <br />
 🌳 Master's degree in Computer Science and Engineering in Cesena (IT) - Bologna University <br /> 
