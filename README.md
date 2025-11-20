@@ -49,7 +49,7 @@
   <a href="https://paypal.me/igorlirussi">
     <img src="https://igor-lirussi.github.io/icons/color-hand-drawn/paypal-80.png" height="80" alt="PayPal"/></a>
   <a href="https://igor-lirussi.github.io/Curriculum-Vitae/">
-    <img src="https://igor-lirussi.github.io/icons/color-hand-drawn/cv-80.png" height="80" alt="Curriculum-Vitae"/></a>
+    <img src="https://igor-lirussi.github.io/icons/color-hand-drawn/cv-80-2.png" height="80" alt="Curriculum-Vitae"/></a>
 </p>
 
 
