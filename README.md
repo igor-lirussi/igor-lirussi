@@ -22,7 +22,7 @@
 [![igor's github stats](https://github-readme-stats-igor-lirussi.vercel.app/api?username=igor-lirussi&count_private=true&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-lirussi&layout=compact&theme=transparent&hide_border=true&langs_count=12&exclude_repo=VR-Forest,VR-Boat,VR-Physics-Integration,VR-Lab-Scan,VR-Tutorial,CNMP-Robotic-Skill-Synthesis)](https://github.com/igor-lirussi?tab=repositories)
+[![Top Langs](https://github-readme-stats-igor-lirussi.vercel.app/api/top-langs/?username=igor-lirussi&layout=compact&theme=transparent&hide_border=true&langs_count=12&exclude_repo=VR-Forest,VR-Boat,VR-Physics-Integration,VR-Lab-Scan,VR-Tutorial,CNMP-Robotic-Skill-Synthesis)](https://github.com/igor-lirussi?tab=repositories)
 <a href="https://github.com/igor-lirussi?tab=repositories">
 <img alt="Github" src="https://github.com/igor-lirussi/igor-lirussi/raw/main/metrics.activity.svg"  width="450"/>
 </a>
